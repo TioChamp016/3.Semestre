@@ -41,7 +41,6 @@ function calculando6(n){
                 resultado += `${i+1}º Elemento: ${vet[i]}</br>`
             }
         }
-        
         return`A sequencia de Fibonacci com ${n} elementos é:</br>${resultado}` 
     }
 }
